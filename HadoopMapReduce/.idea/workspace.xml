@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3585c3e7-f1d3-448a-a8d9-c413070e91f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/big-data-mapreduce-hadoop3-student.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_apache_hadoop_hadoop_client_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_apache_hadoop_hadoop_common_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop-3.2.1/bin/hadoop.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop-3.2.1/bin/hadoop.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop-3.2.1/bin/hadoop.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop-3.2.1/bin/hadoop.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop-3.2.1/bin/libwinutils.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop-3.2.1/bin/winutils.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop-3.2.1/bin/winutils.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/JY157487.1.fasta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/bible.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/customwritable/AverageTemperature$CombineForAverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/customwritable/AverageTemperature$MapForAverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/customwritable/AverageTemperature$ReduceForAverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/customwritable/AverageTemperature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/customwritable/FireAvgTempWritable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/customwritable/ForestFire$ForestFireMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/customwritable/ForestFire$ForestFireReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/customwritable/ForestFire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/customwritable/ForestFireWritable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/entropy/BaseQtdWritable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/entropy/EntropyFASTA$MapEtapaA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/entropy/EntropyFASTA$MapEtapaB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/entropy/EntropyFASTA$ReduceEtapaA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/entropy/EntropyFASTA$ReduceEtapaB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/entropy/EntropyFASTA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/advanced/entropy/entropy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/basic/Teste$Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/basic/Teste$Reduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/basic/Teste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/basic/WordCount$MapForWordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/basic/WordCount$ReduceForWordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/basic/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/org/apache/hadoop/fs/FileUtil$HardLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/big-data-mapreduce-hadoop3-student/org/apache/hadoop/fs/FileUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/teste_resultado.txt/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/teste_resultado.txt/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/teste_resultado.txt/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/teste_resultado.txt/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advanced/customwritable/AverageTemperature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advanced/customwritable/FireAvgTempWritable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advanced/customwritable/ForestFire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advanced/customwritable/ForestFireWritable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advanced/entropy/BaseQtdWritable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advanced/entropy/EntropyFASTA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advanced/entropy/entropy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/Teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/apache/hadoop/fs/FileUtil.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2uGNEHVj1SPuXrBlKO6XM0FBgP2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Teste.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Julian/OneDrive/Área de Trabalho/programas/4.1th_period/bigdata/big-data_4th-period/HadoopMapReduce"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="WordCount" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="basic.WordCount" />
+      <module name="big-data-mapreduce-hadoop3-student" />
+      <option name="PROGRAM_PARAMETERS" value="in/bible.txt output/word-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3585c3e7-f1d3-448a-a8d9-c413070e91f0" name="Changes" comment="" />
+      <created>1741870840534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741870840534</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/Teste.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
